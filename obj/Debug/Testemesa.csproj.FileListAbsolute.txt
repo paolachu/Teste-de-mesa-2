@@ -1,0 +1,8 @@
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\obj\Debug\Testemesa.csproj.AssemblyReference.cache
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\obj\Debug\Testemesa.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\obj\Debug\Testemesa.csproj.CoreCompileInputs.cache
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\bin\Debug\Testemesa.exe.config
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\bin\Debug\Testemesa.exe
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\bin\Debug\Testemesa.pdb
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\obj\Debug\Testemesa.exe
+C:\Users\paolagarcia\source\repos\Testemesa\Testemesa\obj\Debug\Testemesa.pdb
